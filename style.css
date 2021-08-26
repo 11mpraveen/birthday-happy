@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: orange;
+    background-image: url(hOye.gif);
+    background-size: cover;
+
+}
+#mycanvas{
+    border-width: 30px;
+    background-color: lavender;
+    border-style: ridge;
+    border-color: lightsalmon;
+    align-content: center;
+    margin-left: 775;
+}
+
+.btn{
+    position: absolute;
+    left: 45%;
+    width: 200px;
+    height: 100px;
+    font-size: 30px;
+    font-family:cursive;
+    background-color:rgb(241, 173, 224);
+    border-radius: 10%;
+    border-style:groove;
+    border-width: 10px;
+    border-color: lightskyblue;
+    text-align: center;
+}
